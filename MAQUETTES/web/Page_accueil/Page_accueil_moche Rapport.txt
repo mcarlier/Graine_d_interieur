@@ -24,11 +24,11 @@ Polices protégées non assemblées :SANS
 
 -----------------------------------------------------------------------------
 Polices :
-Abril Fatface (OTF)
-Bree Serif (OTF)
 GeosansLight (TrueType)
-Myriad Pro (OTF)
 PT Sans (OTF)
+Bree Serif (OTF)
+Abril Fatface (OTF)
+Myriad Pro (OTF)
 
 -----------------------------------------------------------------------------
 Polices incorporées :
@@ -37,10 +37,10 @@ SANS
 -----------------------------------------------------------------------------
 Liens manquants :
 
-/Utilisateurs/Maelle/Bureau/web design/site/Images/header/63316fff149ca6004ddd7bfe63b24f4b.jpg
+/Utilisateurs/Maelle/Bureau/web design/site/Images/header/essai.jpg
 Type : Autre
 
-/Utilisateurs/Maelle/Bureau/web design/site/Images/header/essai.jpg
+/Utilisateurs/Maelle/Bureau/web design/site/Images/header/63316fff149ca6004ddd7bfe63b24f4b.jpg
 Type : Autre
 
 /Utilisateurs/Maelle/Bureau/web design/site/Images/header/63316fff149ca6004ddd7bfe63b24f4b.jpg
@@ -49,13 +49,40 @@ Type : Autre
 -----------------------------------------------------------------------------
 Images liées :
 
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/facebook_violet.png
+/Utilisateurs/Maelle/Bureau/web design/site/Images/header/09_search-512.png
 Type : RVB transparent
 Bits par pixel : 32
 Couches : 4
 Taille : 1024K, 512 x 512 pixels
-Dimensions : 116,938 x 116,938 points 
-Résolution : 315,243 x 315,243 pixels par pouce
+Dimensions : 66,999 x 66,999 points 
+Résolution : 550,214 x 550,214 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 324,67 points 
+Résolution : 31,241 x 77,617 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 324,67 points 
+Résolution : 31,241 x 77,617 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 324,67 points 
+Résolution : 31,241 x 77,617 pixels par pouce
 
 
 /Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
@@ -74,78 +101,6 @@ Couches : 3
 Taille : 358K, 350 x 350 pixels
 Dimensions : 806,625 x 806,625 points 
 Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/twiter_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 119,658 x 119,658 points 
-Résolution : 308,079 x 308,079 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/instagram_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 118,105 x 118,105 points 
-Résolution : 312,13 x 312,13 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/Pinterest_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 104,717 x 104,717 points 
-Résolution : 352,036 x 352,036 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire3.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 5672K, 2786 x 695 pixels
-Dimensions : 317,607 x 79,231 points 
-Résolution : 631,574 x 631,574 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire4.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 1823K, 789 x 789 pixels
-Dimensions : 323,252 x 323,252 points 
-Résolution : 175,739 x 175,739 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 413K, 400 x 353 pixels
-Dimensions : 311,8 x 275,164 points 
-Résolution : 92,367 x 92,367 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire2.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 114232K, 7677 x 5079 pixels
-Dimensions : 514,654 x 340,488 points 
-Résolution : 1074,011 x 1074,011 pixels par pouce
 
 
 /Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Nouveau.jpg
@@ -184,22 +139,13 @@ Dimensions : 545,972 x 839,179 points
 Résolution : 142,425 x 142,425 pixels par pouce
 
 
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash24.jpg
 Type : RVB
 Bits par pixel : 24
 Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 324,67 points 
-Résolution : 31,241 x 77,617 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash3.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 35156K, 3000 x 4000 pixels
-Dimensions : 564,241 x 752,321 points 
-Résolution : 382,815 x 382,815 pixels par pouce
+Taille : 5138K, 1080 x 1624 pixels
+Dimensions : 490,495 x 686,801 points 
+Résolution : 158,534 x 170,25 pixels par pouce
 
 
 /Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash23.jpg
@@ -211,31 +157,13 @@ Dimensions : 943,782 x 681,629 points
 Résolution : 82,392 x 76,053 pixels par pouce
 
 
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash3.jpg
 Type : RVB
 Bits par pixel : 24
 Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 324,67 points 
-Résolution : 31,241 x 77,617 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash24.jpg
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 5138K, 1080 x 1624 pixels
-Dimensions : 490,495 x 686,801 points 
-Résolution : 158,534 x 170,25 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 324,67 points 
-Résolution : 31,241 x 77,617 pixels par pouce
+Taille : 35156K, 3000 x 4000 pixels
+Dimensions : 564,241 x 752,321 points 
+Résolution : 382,815 x 382,815 pixels par pouce
 
 
 /Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Populaire.jpg
@@ -247,10 +175,82 @@ Dimensions : 1012,794 x 675,196 points
 Résolution : 76,778 x 76,778 pixels par pouce
 
 
-/Utilisateurs/Maelle/Bureau/web design/site/Images/header/09_search-512.png
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 413K, 400 x 353 pixels
+Dimensions : 311,8 x 275,164 points 
+Résolution : 92,367 x 92,367 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire2.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 114232K, 7677 x 5079 pixels
+Dimensions : 514,654 x 340,488 points 
+Résolution : 1074,011 x 1074,011 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire3.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5672K, 2786 x 695 pixels
+Dimensions : 317,607 x 79,231 points 
+Résolution : 631,574 x 631,574 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Partenaire4.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1823K, 789 x 789 pixels
+Dimensions : 323,252 x 323,252 points 
+Résolution : 175,739 x 175,739 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/twiter_violet.png
 Type : RVB transparent
 Bits par pixel : 32
 Couches : 4
 Taille : 1024K, 512 x 512 pixels
-Dimensions : 66,999 x 66,999 points 
-Résolution : 550,214 x 550,214 pixels par pouce
+Dimensions : 119,658 x 119,658 points 
+Résolution : 308,079 x 308,079 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/instagram_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 118,105 x 118,105 points 
+Résolution : 312,13 x 312,13 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/Pinterest_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 104,717 x 104,717 points 
+Résolution : 352,036 x 352,036 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/facebook_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 116,938 x 116,938 points 
+Résolution : 315,243 x 315,243 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce

@@ -1,7 +1,7 @@
 <header class="">
   <div class="container">
     <button type="button" class="btn btn-default navbar-btn pull-right">Connexion - Inscription</button>
-    <a href="index.php"><h1>LOGO</h1></a>
+    <a href="index.php"><img src="./images/header/logo.png" alt="logo" class="logo"></a>
   </div>
 </header>
 

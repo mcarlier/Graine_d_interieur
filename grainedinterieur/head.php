@@ -7,5 +7,6 @@
 <!-- Bootstrap -->
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
+<link href="assets/css/main.css" rel="stylesheet">
 <link href="assets/css/grid.css" rel="stylesheet">
 <link href="assets/css/blog.css" rel="stylesheet">

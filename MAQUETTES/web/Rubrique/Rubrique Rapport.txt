@@ -1,0 +1,176 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : Rubrique.ai
+Mode : Couleurs RVB
+Profil colorimétrique : Sans
+Unité : pixels
+Dimensions : 1920 px x 3010,9595 px
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+Abril Fatface (OTF)
+GeosansLight (TrueType)
+Myriad Pro (OTF)
+PT Sans (OTF)
+PT Sans Narrow (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/Corps2.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5242K, 1080 x 1657 pixels
+Dimensions : 553,264 x 848,85 points 
+Résolution : 140,548 x 140,548 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/Corps2.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5242K, 1080 x 1657 pixels
+Dimensions : 553,264 x 848,85 points 
+Résolution : 140,548 x 140,548 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/Corps1.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 4556K, 1080 x 1440 pixels
+Dimensions : 745,5 x 994 points 
+Résolution : 104,306 x 104,306 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/twiter_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 119,658 x 119,658 points 
+Résolution : 308,079 x 308,079 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/instagram_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 118,105 x 118,105 points 
+Résolution : 312,13 x 312,13 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/Pinterest_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 104,717 x 104,717 points 
+Résolution : 352,036 x 352,036 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/facebook_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 116,938 x 116,938 points 
+Résolution : 315,243 x 315,243 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash22.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 2278K, 1080 x 720 pixels
+Dimensions : 910,045 x 606,696 points 
+Résolution : 85,446 x 85,446 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/Top1.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5138K, 1080 x 1624 pixels
+Dimensions : 499,235 x 749,094 points 
+Résolution : 155,758 x 156,092 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/images libre de droit/unsplash12.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5125K, 1080 x 1620 pixels
+Dimensions : 480,514 x 720,771 points 
+Résolution : 161,827 x 161,827 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/sidebar2.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 5125K, 1080 x 1620 pixels
+Dimensions : 374,445 x 561,667 points 
+Résolution : 207,668 x 207,668 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Rubrique/sidebar1.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 2037K, 1080 x 644 pixels
+Dimensions : 801,856 x 478,144 points 
+Résolution : 96,975 x 96,975 pixels par pouce

@@ -6,7 +6,7 @@ Nom : Apropos.ai
 Mode : Couleurs RVB
 Profil colorimétrique : Sans
 Unité : pixels
-Dimensions : 1920 px x 4190,5176 px
+Dimensions : 1920 px x 4436,4434 px
 Afficher les images en mode Tracés : INACTIF
 Mettre en évidence les polices substituées : INACTIF
 Mettre en évidence les glyphes substitués : INACTIF
@@ -24,11 +24,12 @@ Polices protégées non assemblées :SANS
 
 -----------------------------------------------------------------------------
 Polices :
-GeosansLight (TrueType)
-PT Sans (OTF)
-Nivo (OTF)
 Abril Fatface (OTF)
+GeosansLight (TrueType)
 Myriad Pro (OTF)
+Nivo (OTF)
+PT Sans (OTF)
+PT Sans Narrow (OTF)
 
 -----------------------------------------------------------------------------
 Polices incorporées :
@@ -45,6 +46,87 @@ Type : Autre
 
 -----------------------------------------------------------------------------
 Images liées :
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/header/09_search-512.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 66,999 x 66,999 points 
+Résolution : 550,214 x 550,214 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/header/_Logo.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 3746K, 965 x 994 pixels
+Dimensions : 279,791 x 276,38 points 
+Résolution : 248,329 x 258,948 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/twiter_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 119,658 x 119,658 points 
+Résolution : 308,079 x 308,079 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/instagram_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 118,105 x 118,105 points 
+Résolution : 312,13 x 312,13 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/Pinterest_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 104,717 x 104,717 points 
+Résolution : 352,036 x 352,036 pixels par pouce
+
+
+/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/facebook_violet.png
+Type : RVB transparent
+Bits par pixel : 32
+Couches : 4
+Taille : 1024K, 512 x 512 pixels
+Dimensions : 116,938 x 116,938 points 
+Résolution : 315,243 x 315,243 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
 
 /Utilisateurs/Maelle/Bureau/web design/site/Images/A Propos/Nancy.jpg
 Type : RVB
@@ -71,84 +153,3 @@ Couches : 3
 Taille : 287K, 337 x 291 pixels
 Dimensions : 452 x 390,303 points 
 Résolution : 53,681 x 53,681 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/header/09_search-512.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 66,999 x 66,999 points 
-Résolution : 550,214 x 550,214 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/header/_Logo.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 3746K, 965 x 994 pixels
-Dimensions : 279,791 x 276,38 points 
-Résolution : 248,329 x 258,948 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/facebook_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 116,938 x 116,938 points 
-Résolution : 315,243 x 315,243 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/twiter_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 119,658 x 119,658 points 
-Résolution : 308,079 x 308,079 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/Pinterest_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 104,717 x 104,717 points 
-Résolution : 352,036 x 352,036 pixels par pouce
-
-
-/Utilisateurs/Maelle/Bureau/web design/site/Images/Footer/instagram_violet.png
-Type : RVB transparent
-Bits par pixel : 32
-Couches : 4
-Taille : 1024K, 512 x 512 pixels
-Dimensions : 118,105 x 118,105 points 
-Résolution : 312,13 x 312,13 pixels par pouce

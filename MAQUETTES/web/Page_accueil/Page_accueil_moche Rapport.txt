@@ -24,11 +24,12 @@ Polices protégées non assemblées :SANS
 
 -----------------------------------------------------------------------------
 Polices :
-GeosansLight (TrueType)
-PT Sans (OTF)
-Bree Serif (OTF)
 Abril Fatface (OTF)
+Bree Serif (OTF)
+GeosansLight (TrueType)
 Myriad Pro (OTF)
+PT Sans (OTF)
+PT Sans Narrow (OTF)
 
 -----------------------------------------------------------------------------
 Polices incorporées :
@@ -83,24 +84,6 @@ Couches : 3
 Taille : 358K, 350 x 350 pixels
 Dimensions : 806,625 x 324,67 points 
 Résolution : 31,241 x 77,617 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
-
-
-/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
-Type : RVB
-Bits par pixel : 24
-Couches : 3
-Taille : 358K, 350 x 350 pixels
-Dimensions : 806,625 x 806,625 points 
-Résolution : 31,241 x 31,241 pixels par pouce
 
 
 /Utilisateurs/Maelle/Bureau/web design/site/Images/Accueil/Nouveau.jpg
@@ -245,6 +228,24 @@ Couches : 4
 Taille : 1024K, 512 x 512 pixels
 Dimensions : 116,938 x 116,938 points 
 Résolution : 315,243 x 315,243 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
+
+
+/Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 358K, 350 x 350 pixels
+Dimensions : 806,625 x 806,625 points 
+Résolution : 31,241 x 31,241 pixels par pouce
 
 
 /Utilisateurs/Maelle/Téléchargements/tree_bark/tree_bark.png

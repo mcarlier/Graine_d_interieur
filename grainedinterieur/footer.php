@@ -1,3 +1,4 @@
+<p class="text-right"><a href="#" class="">Back to top</a></p>
 <footer class="footer blog-footer">
   <div class="container">
     <div class="row">
@@ -11,18 +12,16 @@
       </div>
       <div class="col-md-4 footer">
         <p>
-          <a href="">F </a>
-          <a href="">T </a>
-          <a href="">I </a>
-          <a href="">P</a>
+          <a href=""><img src="./images/footer/Facebook_violet.svg" alt="F"></a>
+          <a href=""><img src="./images/footer/Pinterest_violet.svg" alt="P"></a>
+          <a href=""><img src="./images/footer/Instagram_violet.svg" alt="I"></a>
+          <a href=""><img src="./images/footer/Twitter_violet.svg" alt="T"></a>
         </p>
-        <p><a href="">A propos</a></p>
+        <p><a href="">À propos</a></p>
         <p><a href="">Mentions légales</a></p>
         <p><a href="">Plan du site</a></p>
       </div>
     </div>
   </div>
-  <p>
-    <a href="#">Back to top</a>
-  </p>
+  <div class="text-center foot">Bric à brac & Co | 2016 | Tous droits réservés</div>
 </footer>

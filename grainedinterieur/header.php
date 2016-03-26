@@ -1,7 +1,7 @@
 <header class="">
   <div class="container">
     <button type="button" class="btn btn-default navbar-btn pull-right conIns">Connexion - Inscription</button>
-    <a href="index.php"><img src="./images/header/logo_text_transparent.png" alt="logo" class="logo col-xs-10 col-xs-offset-1 col-md-5"></a>
+    <a href="index.php"><img src="./images/header/logo_text_transparent.png" alt="logo" class="logo col-xs-10 col-xs-offset-1 col-md-5 img-responsive "></a>
    <!--  <img src="./images/header/background_long.png" alt="header" class="fond_header" /> -->
 <!--       <h1>Graine d'intérieur</h1>
       <p>Fais pousser ta déco</p> -->
@@ -30,13 +30,11 @@
         <li class="sliding-middle-out"><a href="#">Shopping</a></li>
         <li class="sliding-middle-out"><a href="#">Dossiers</a></li>
         <li class="sliding-middle-out"><a href="#">Tests</a></li>
-        <li class="sliding-middle-out"><a href="apropos.php">A propos</a></li>
+        <li class="sliding-middle-out"><a href="apropos.php">À propos</a></li>
       </ul>
-      <form class="navbar-form navbar-right" role="search">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Recherche">
-        </div>
-        <button type="submit" class="btn btn-default glyphicon glyphicon-search" formaction="recherche.php"></button>
+      <form class="navbar-right" role="search">
+        <input type="text" class="recherche" placeholder="  Recherche"> <!-- form-control -->
+        <button type="submit" class="btn btn-default glyphicon glyphicon-search recherche-btn" formaction="recherche.php"></button>
       </form>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

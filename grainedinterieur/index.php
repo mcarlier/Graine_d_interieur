@@ -68,7 +68,11 @@
 
 
       <section class="coupdecoeur">
-        <h1>Coups de coeur de la Rédac</h1>
+        <h1>
+          <div class="feuille1"></div>
+          Coups de coeur de la Rédac
+          <div class="feuille2"></div>
+        </h1>
         <div class="row">
           <article class="col-md-5">
             <div>Shopping</div>
@@ -99,7 +103,11 @@
 
       <section class="populaire">
 
-        <h1>Les plus lus</h1>
+        <h1>
+          <div class="feuille1"></div>
+          Les plus lus
+          <div class="feuille2"></div>
+        </h1>
 
         <div class="row">
           <article class="col-md-8">
@@ -148,7 +156,11 @@
 
       <section class="partenaire">
 
-        <h1>Nos partenaires</h1>
+        <h1>
+          <div class="feuille1"></div>
+          Nos partenaires
+          <div class="feuille2"></div>
+        </h1>
 
         <div class="row">
           <article class="col-md-3">

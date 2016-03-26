@@ -9,8 +9,8 @@ violet foncé
 rgba(153,88,148, 1)
 
 bleu
-#9999CC
-rgba(153,153,204, 1)
+#89A6CC
+rgba(137,166,204, 1)
 
 vert clair
 #91AA2B
@@ -34,12 +34,43 @@ Ombre portée nette sous les boutons ?
 
 /********************GENERAL******************/
 body {
+	position: relative;
 	font-size: 17px;
 	font-family: "PT Sans Narrow";
 }
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: "Abril Fatface";
+}
+
+h1 {
+	margin-bottom:1em;
+}
+
+h1 > div{
+	display: inline-block;
+	text-indent: -9999px;
+}
+
+.feuille1 {
+	width:1.1em;
+	height:1.1em;
+	margin-right: -0.4em;
+	background: url("../../svg/feuille1.svg");
+}
+
+.feuille2 {
+	width:1em;
+	height:1em;
+	margin-left: -0.1em;
+	background: url("../../svg/feuille2.svg");
+}
+
+
+a:link, a:visited, a:hover, a:active { outline:none }
+
+section {
+	padding:1em;
 }
 
 /*******************HEADER********************/
@@ -71,6 +102,19 @@ header .conIns {
 	}
 }
 
+.recherche {
+	border:transparent;
+	margin:0.5em auto;
+	padding:0;
+	height:2em;
+	border-radius: 5px;
+}
+.recherche-btn {
+	border:transparent;
+	margin-top: -6px;
+	height:2.5em;
+}
+
 /*******************NAV********************/
 
 nav ul{
@@ -84,6 +128,7 @@ white-space:nowrap;
 nav ul li{
 display:inline;
 text-align:center;
+/*font-weight: bolder;*/
 }
 nav ul li a{
 position:relative;
@@ -101,6 +146,7 @@ text-shadow:0 1px 0 white;
    -moz-transition:width .3s,right .3s;
      -o-transition:width .3s,right .3s;
         transition:width .3s,right .3s;
+font-size: 20px;
 }
 
 
@@ -120,15 +166,15 @@ text-shadow:0 1px 0 white;
 .sliding-middle-out:hover:after {
 	width: 100%;
 }
-
-
 .navbar-default {
     background-color: #F2F2F2;
     border-color: transparent;
+    margin:0;
 }
 .navbar {
     border-radius: 0px;
     border: none;
+    margin:0;
 }
 
 .navbar-default .navbar-nav > li:nth-child(1):hover:after, .navbar-default .navbar-nav > li:nth-child(7):hover:after{
@@ -147,10 +193,10 @@ text-shadow:0 1px 0 white;
 	color:#91AA2B; /*vert clair*/
 }
 .navbar-default .navbar-nav > li:nth-child(4):hover:after{
-	background:#9999CC;
+	background:#89A6CC;
 }
 .navbar-default .navbar-nav > li:nth-child(4) > a:hover{
-	color:#9999CC; /*bleu*/
+	color:#89A6CC; /*bleu*/
 }
 .navbar-default .navbar-nav > li:nth-child(5):hover:after{
 	background: #4D872A;
@@ -166,71 +212,58 @@ text-shadow:0 1px 0 white;
 }
 
 
+/***********************A PROPOS*******************************/
+
+.redaction {
+	background: rgba(137,166,204, 0.7);
+}
+.redaction img {
+	width:100%;
+}
+.redaction .nom {
+	font-size: 1.5em;
+	text-align: center;
+}
+.redaction .nom:after {
+	content: '';
+	display: block;
+	margin: auto;
+	height: 1px;
+	width: 50%;
+	background: rgba(119,119,119, 0.7);
+}
+.redaction .row .col-md-3 {
+	background-color: rgba(255,255,255,1);
+	padding:0;
+}
+.redaction .row .col-md-3 div {
+	padding: 0 1.1em 1.1em 1.1em;
+	font-size: 1.2em;
+}
+.presentationJournal {
+	border:3px solid rgba(119,119,119, 0.7);
+	border-radius: 5px;
+	padding:1em;
+}
 
 
-/*nav ul li:last-child a::after{
-content:"";
-position:absolute;
-right:inherit;
-bottom:-3px;
-width:inherit;
-height:3px;
-background:#ccc;
-  pointer-events:none;
 
--webkit-transition:all .5s ease;
-   -moz-transition:all .5s ease;
-     -o-transition:all .5s ease;
-        transition:all .5s ease;
-}*/
+/***********************FOOTER*******************************/
 
-/*nav ul li:nth-child(1) ~ li:last-child a{
-right:25em;
-width:4em;
+footer{
+	background: url("../../images/footer/tree_bark.png");
 }
-nav ul li:nth-child(2):hover ~ li:last-child a{
-right:21em;
-width:4em;
-}
-nav ul li:nth-child(3):hover ~ li:last-child a{
-right:17em;
-width:4em;
-}
-nav ul li:nth-child(4):hover ~ li:last-child a{
-right:13em;
-width:4em;
-}
-nav ul li:nth-child(5):hover ~ li:last-child a{
-right:9em;
-width:4em;
-}
-nav ul li:nth-child(6):hover ~ li:last-child a{
-right:5em;
-width:4em;
-}
-nav ul li:nth-child(7):last-child:hover a{
-right:0;
-width:4em;
-}*/
 
-
-/*nav ul li:hover ~ li:last-child a::after,
-nav ul li:last-child:hover a::after{
-background:#c351fa;
+footer .foot{
+	position:absolute;
+	height:40px;
+	line-height:40px;
+	vertical-align: middle;
+	bottom:0;
+	width:100%;
+	background-color: #995894;
+	color:white;
 }
-nav ul li:last-child a{
-min-width:5em;max-width:5em;
+footer img {
+	width:3em;
 }
-nav ul li a:hover,ul li a:focus{
-color:#c351fa;
-background-color:rgba(255,255,255,.6);
-
--webkit-transition:width .3s,right .3s,background-color .3s;
-   -moz-transition:width .3s,right .3s,background-color .3s;
-     -o-transition:width .3s,right .3s,background-color .3s;
-        transition:width .3s,right .3s,background-color .3s;
-}
-nav ul li a:focus{
-border-bottom:3px solid #c351fa;
-}*/
-

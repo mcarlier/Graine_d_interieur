@@ -1,0 +1,41 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : racine.ai
+Mode : Couleurs CMJN
+Profil colorimétrique : Sans
+Unité : pixels
+Dimensions : 1478,5223 px x 1971,6254 px
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+Abril Fatface (OTF)
+Myriad Pro (OTF)
+Raleway Medium (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+SANS

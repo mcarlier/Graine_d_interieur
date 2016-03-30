@@ -16,11 +16,15 @@
 
 
       <section class="container">
-        <h1>
-            <div class="feuille1"></div>
-          Qui sommes-nous ?
-            <div class="feuille2"></div>
-        </h1>
+        <ol class="breadcrumb">
+          <li><a href="index.php">Accueil</a></li>
+          <li class="active"></a>À propos</li>
+        </ol>
+        <div class="titreh1">
+          <div class="feuille1"></div>
+          <h1>Qui sommes-nous ?</h1>
+          <div class="feuille2"></div>
+        </div>
         <div class="row">
           <div class="col-md-8 col-md-offset-2 presentationJournal">
             Présentation du journal<br>
@@ -39,11 +43,11 @@
     </section>
       <div class="redaction">
         <section class="container">
-          <h1>
+          <div class="titreh1">
             <div class="feuille1"></div>
-            La Rédaction
+            <h1>La Rédaction</h1>
             <div class="feuille2"></div>
-          </h1>
+          </div>
           <div class="row">
             <div class="col-md-3 col-md-offset-1">
               <img src="./images/a_propos/Alice.jpg" alt="Alice">
@@ -64,38 +68,46 @@
         </div>
       </section>
 
+      <div class="contact">
+
       <section class="container">
-        <h1>
-          <object data="./svg/feuille1.svg" type="image/svg+xml" class="feuille1"></object>
-          Contactez nous !
-          <object data="./svg/feuille2.svg" type="image/svg+xml" class="feuille2"></object>
-        </h1>
-        <form class="form-horizontal" role="form" method="post" action="index.php">
-            <div class="form-group">
-                <label for="email" class="col-sm-2 control-label">Email</label>
-                <div class="col-sm-10">
-                    <input type="email" class="form-control" id="email" name="email" placeholder="exemple@domaine.com" value="">
+          <div class="titreh1">
+            <div class="feuille1"></div>
+            <h1>Contactez nous !</h1>
+            <div class="feuille2"></div>
+          </div>
+          <form class="form-horizontal" role="form" method="post" action="index.php">
+              <div class="form-group">
+                  <!-- <label for="email" class="col-sm-2 control-label">Email</label> -->
+                  <div class="col-sm-4 col-sm-offset-2">
+                      <input type="email" class="form-control" id="email" name="email" placeholder="Email" value="">
+                  </div>
+              </div>
+              <div class="form-group">
+                  <!-- <label for="message" class="col-sm-2 control-label">Message</label> -->
+                  <div class="col-sm-8 col-sm-offset-2">
+                      <textarea id="message" class="form-control" rows="4" name="message">Message</textarea>
+                  </div>
+              </div>
+              <div class="form-group ">
+                <div class="checkbox col-sm-offset-2 col-sm-8">
+                  <label><input type="checkbox">Je ne suis pas un robot.</label>
                 </div>
-            </div>
-            <div class="form-group">
-                <label for="message" class="col-sm-2 control-label">Message</label>
-                <div class="col-sm-10">
-                    <textarea class="form-control" rows="4" name="message"></textarea>
+              </div>
+              <div class="form-group">
+                <!-- <input id="submit" name="submit" type="submit" value="Envoyer" class="btn btn-primary"> -->
+                <div class="col-sm-8 col-sm-offset-2">
+                  <button class="btn boutonFeuille">
+                    <div class="feuille3"></div>
+                    Envoyer
+                    <div class="feuille4"></div>
+                  </button>
                 </div>
-            </div>
-            <div class="form-group">
-                <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
-                <div class="col-sm-10">
-                    <input type="text" class="form-control" id="human" name="human" placeholder="Votre réponse">
-                </div>
-            </div>
-            <div class="form-group">
-                <div class="col-sm-10 col-sm-offset-2">
-                    <input id="submit" name="submit" type="submit" value="Envoyer" class="btn btn-primary">
-                </div>
-            </div>
-        </form>
-      </section>
+
+              </div>
+          </form>
+        </section>
+      </div>
 
     <?php require("footer.php"); ?>
 

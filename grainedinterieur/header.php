@@ -23,14 +23,14 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav"> <!--nav  -->
-        <li class="sliding-middle-out"><a href="index.php">Accueil</a></li>
-        <li class="sliding-middle-out"><a href="#">Conseils</a></li>
-        <li class="sliding-middle-out"><a href="#">DIY</a></li>
-        <li class="sliding-middle-out"><a href="#">Shopping</a></li>
-        <li class="sliding-middle-out"><a href="#">Dossiers</a></li>
-        <li class="sliding-middle-out"><a href="#">Tests</a></li>
-        <li class="sliding-middle-out"><a href="apropos.php">À propos</a></li>
+      <ul class="nav navbar-nav sliding-middle-out"> <!--nav  -->
+        <li><a href="index.php">Accueil</a></li>
+        <li><a href="conseils.php">Conseils</a></li>
+        <li><a href="diy.php">DIY</a></li>
+        <li><a href="shopping.php">Shopping</a></li>
+        <li><a href="dossiers.php">Dossiers</a></li>
+        <li><a href="tests.php">Tests</a></li>
+        <li><a href="apropos.php">À propos</a></li>
       </ul>
       <form class="navbar-right" role="search">
         <input type="text" class="recherche" placeholder="  Recherche"> <!-- form-control -->

@@ -14,11 +14,138 @@
 
     <?php require("header.php"); ?>
     <div class="container">
+
       <ol class="breadcrumb">
-        <li>Recherche</li>
+        <li><a href="index.php">Accueil</a></li>
+        <li><a href="recherche.php">Recherche</a></li>
         <li class="active">Cactus</li>
       </ol>
-      <p>RECHERCHE</p>
+
+      <form class="row" role="search">
+        <input type="text" class="col-md-4 col-md-offset-1" placeholder="  Cactus"> <!-- form-control -->
+        <button type="submit" class="btn btn-default glyphicon glyphicon-search recherche-btn" formaction="recherche.php"></button>
+      </form>
+
+      <div class="col-md-4 blog-sidebar">
+        <h2 class="darkVioletColor">4 résultats</h2>
+        <div class="sidebar-module sidebar-module-inset filtres">
+          <div class="feuille2 inline-block"></div>
+          <h4 class="inline-block">Vos choix</h4>
+          <a class="inline-block darkVioletColor">supprimer tout</a>
+          <p>Tous les résultats de recherche pour "cactus".</p>
+
+          <div class="feuille2 inline-block"></div>
+          <h4 class="inline-block">Filtrez</h4>
+
+          <form>
+            <p><input type="checkbox"> Boutique</p>
+            <p><input type="checkbox"> Bon Plan</p>
+            <p><input type="checkbox"> Conseil</p>
+            <p><input type="checkbox"> Couleur</p>
+            <p><input type="checkbox"> Curiosité</p>
+            <p><input type="checkbox"> DIY</p>
+            <p><input type="checkbox"> Dossier</p>
+            <p><input type="checkbox"> Lumière</p>
+            <p><input type="checkbox"> Pot</p>
+            <p><input type="checkbox"> Scandinave</p>
+            <p><input type="checkbox"> Shopping</p>
+            <p><input type="checkbox"> Test</p>
+          </form>
+        </div>
+      </div>
+      <!-- :::::::::::::::::FIN:::SIDEBAR:::::::::::::::::: -->
+
+
+      <div class="col-md-8 blog-main recherche-main">
+
+        <div class="trierPar blueBack08 row text-center">
+          <div class="col-md-2">Trier par</div>
+          <div class="col-md-2">Rubrique</div>
+          <div class="col-md-4">
+            Plus vus
+            <span class="glyphicon glyphicon-triangle-top"></span>
+            <span class="glyphicon glyphicon-triangle-bottom"></span>
+          </div>
+          <div class="col-md-4">
+            Date de sortie
+            <span class="glyphicon glyphicon-triangle-top"></span>
+            <span class="glyphicon glyphicon-triangle-bottom"></span>
+          </div>
+
+        </div>
+
+          <div class="row">
+            <div class="col-md-4"><hr class="hrRecherche darkVioletBack"></div>
+            <div class="col-md-4"><h3 class="text-center darkVioletColor">Conseil</h3></div>
+            <div class="col-md-4"><hr class="hrRecherche darkVioletBack"></div>
+          </div>
+
+          <h3 class="text-center"></h3>
+          <div class="row">
+            <article class="col-md-10 col-md-offset-1">
+              <div class="cac2">
+                <h2>Quel cactus pour quel intérieur ?</h2>
+              </div>
+            </article>
+          </div>
+
+
+          <div class="row">
+            <div class="col-md-4 "><hr class="hrRecherche lightGreenBack"></div>
+            <div class="col-md-4"><h3 class="text-center lightGreenColor">DIY</h3></div>
+            <div class="col-md-4"><hr class="hrRecherche lightGreenBack"></div>
+          </div>
+
+          <div class="row">
+              <p class="text-center">Pas de résultat</p>
+          </div>
+
+
+          <div class="row">
+            <div class="col-md-4 "><hr class="hrRecherche blueBack"></div>
+            <div class="col-md-4"><h3 class="text-center blueColor">Shopping</h3></div>
+            <div class="col-md-4"><hr class="hrRecherche blueBack"></div>
+          </div>
+
+          <div class="row">
+            <article class="col-md-10 col-md-offset-1">
+              <div class="cac1">
+                <h2>Où acheter vos cactus ?</h2>
+              </div>
+            </article>
+          </div>
+          <div class="row">
+            <article class="col-md-10 col-md-offset-1">
+              <div class="cac1">
+                <h2>Où acheter vos cactus ?</h2>
+              </div>
+            </article>
+          </div>
+
+
+          <div class="row">
+            <div class="col-md-4 "><hr class="hrRecherche darkGreenBack"></div>
+            <div class="col-md-4"><h3 class="text-center darkGreenColor">Dossiers</h3></div>
+            <div class="col-md-4"><hr class="hrRecherche darkGreenBack"></div>
+          </div>
+          <div class="row">
+            <p class="text-center">Pas de résultat</p>
+          </div>
+
+          <div class="row">
+            <div class="col-md-4 "><hr class="hrRecherche lightVioletBack"></div>
+            <div class="col-md-4"><h3 class="text-center lightVioletColor">Tests</h3></div>
+            <div class="col-md-4"><hr class="hrRecherche lightVioletBack"></div>
+          </div>
+          <div class="row">
+            <article class="col-md-10 col-md-offset-1">
+              <div class="cac1">
+                <h2>Associez chaque pot à son cactus.</h2>
+              </div>
+            </article>
+          </div>
+
+      </div>
 
     </div>
 

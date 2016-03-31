@@ -22,7 +22,7 @@
         </ol>
         <div class="titreh1">
           <div class="feuille1"></div>
-          <h1>Qui sommes-nous ?</h1>
+          <h1 class="backWhite">Qui sommes-nous ?</h1>
           <div class="feuille2"></div>
         </div>
         <div class="row">

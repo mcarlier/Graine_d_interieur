@@ -22,7 +22,7 @@
       </ol>
 
       <form class="row" role="search">
-        <input type="text" class="col-md-4 col-md-offset-1" placeholder="  Cactus"> <!-- form-control -->
+        <input type="text" class="col-md-4 col-md-offset-1 cactus" placeholder="  Cactus"> <!-- form-control -->
         <button type="submit" class="btn btn-default glyphicon glyphicon-search recherche-btn" formaction="recherche.php"></button>
       </form>
 
@@ -56,9 +56,9 @@
       <!-- :::::::::::::::::FIN:::SIDEBAR:::::::::::::::::: -->
 
 
-      <div class="col-md-8 blog-main recherche-main">
+      <div class="col-md-8 recherche-main">
 
-        <div class="trierPar blueBack08 row text-center">
+        <div class="trierPar blueBack07 row text-center">
           <div class="col-md-2">Trier par</div>
           <div class="col-md-2">Rubrique</div>
           <div class="col-md-4">
@@ -84,7 +84,7 @@
           <div class="row">
             <article class="col-md-10 col-md-offset-1">
               <div class="cac2">
-                <h2>Quel cactus pour quel intérieur ?</h2>
+                <h2 class="darkVioletBack07">Quel cactus pour quel intérieur ?</h2>
               </div>
             </article>
           </div>
@@ -110,14 +110,14 @@
           <div class="row">
             <article class="col-md-10 col-md-offset-1">
               <div class="cac1">
-                <h2>Où acheter vos cactus ?</h2>
+                <h2 class="blueBack07">Où acheter vos cactus ?</h2>
               </div>
             </article>
           </div>
           <div class="row">
             <article class="col-md-10 col-md-offset-1">
               <div class="cac1">
-                <h2>Où acheter vos cactus ?</h2>
+                <h2 class="blueBack07">Où acheter vos cactus ?</h2>
               </div>
             </article>
           </div>
@@ -140,7 +140,7 @@
           <div class="row">
             <article class="col-md-10 col-md-offset-1">
               <div class="cac1">
-                <h2>Associez chaque pot à son cactus.</h2>
+                <h2 class="lightVioletBack07">Associez chaque pot à son cactus.</h2>
               </div>
             </article>
           </div>

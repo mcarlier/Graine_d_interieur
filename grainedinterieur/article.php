@@ -85,23 +85,22 @@
           </div>
 
           <div>
-            <div class="feuille2 inline-block"></div>
+            <div class="feuille2 inline-block rotateFeuille2"></div>
             <h3 class="inline-block">À lire aussi :</h3>
-            <p><a href="#">Shopping : Où trouver son Kokédama.</a></p>
-            <p><a href="#">Conseil : Comment assortir son Kokédama à sa table basse.</a></p>
-            <p><a href="#">DIY : Tout pour faire son Kokédama.</a></p>
+            <ol class="derniersArticles">
+              <li><a href="#">Shopping : Où trouver son Kokédama.</a></li>
+              <li><a href="#">Conseil : Comment assortir son Kokédama à sa table basse.</a></li>
+              <li><a href="#">DIY : Tout pour faire son Kokédama.</a></li>
+            </ol>
+
           </div>
 
-          <div class="jumbotron">
-            <br>
-            <br>
-            PUBLICITE Mister Vintpster
-            <br>
-            <br>
+          <div>
+            <img src="./images/pub/hipster.png" alt="Mister VintHipster" class="hipster">
           </div>
 
           <div id="comments">
-            <div class="feuille2 inline-block"></div>
+            <div class="feuille2 inline-block rotateFeuille2"></div>
             <h3 class="inline-block">Commentaires</h3>
             <section class="commentaire">
 
@@ -119,7 +118,7 @@
 
             <button class="btn boutonFeuille">
               <div class="feuille3"></div>
-              Afficher plus de commentaires
+              Plus de commentaires
               <div class="feuille4"></div>
             </button>
           </div>
@@ -131,16 +130,12 @@
 
 
         <div class="col-md-3 blog-sidebar">
-          <div class="sidebar-module sidebar-module-inset">
-            <h4>Publicité Barbicoiffure</h4>
-            <br>
-            <br>
-            <br>
-            <br>
+          <div class="sideBarbie">
+            <img src="./images/pub/barbipub.png" alt="Barbicoiffure" class="barbiPub">
           </div>
           <div class="sidebar-module">
             <h4>Derniers articles</h4>
-            <ol class="list-unstyled">
+            <ol class="derniersArticles">
               <li><a href="#">Plantes atypiques à mettre à l'intérieur</a></li>
               <li><a href="#">5 conseils pour décorer avec des plantes</a></li>
               <li><a href="#">Quelle plante verte êtes-vous ?</a></li>
@@ -151,14 +146,18 @@
           <div class="sidebar-module">
             <h4>Partenaires</h4>
             <article class="">
-              <div class="par3">
-                <h2>Rendez-lui visite!</h2>
-              </div>
+              <a href="">
+                <div class="par3">
+                  <h2 class="blueBack07">Rendez-lui visite!</h2>
+                </div>
+              </a>
             </article>
             <article class="">
-              <div class="par4">
-                <h2>Rendez-lui visite!</h2>
-              </div>
+              <a href="">
+                <div class="par4">
+                  <h2 class="blueBack07">Rendez-lui visite!</h2>
+                </div>
+              </a>
             </article>
           </div>
 

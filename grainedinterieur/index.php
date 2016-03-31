@@ -75,16 +75,20 @@
 
         <div class="row">
           <article class="col-md-5">
-            <div class="rub">Shopping</div>
-            <div class="cdc1">
-              <h2>Où acheter vos cactus ?</h2>
-            </div>
+            <a href="">
+              <div class="rub">Shopping</div>
+              <div class="cdc1">
+                <h2>Où acheter vos cactus ?</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-5 col-md-offset-1">
-            <div class="rub">Dossier</div>
-            <div class="cdc2">
-              <h2>Décorez votre véranda</h2>
-            </div>
+            <a href="">
+              <div class="rub">Dossier</div>
+              <div class="cdc2">
+                <h2>Décorez votre véranda</h2>
+              </div>
+            </a>
           </article>
         </div>
 
@@ -95,7 +99,7 @@
 
     <section class="participez">
       <h1 class="titreh1">
-        <div class="feuille2"></div>INSCRIVEZ-VOUS <div class="feuille2"></div> PARTICIPEZ ! <div class="feuille2"></div>
+        <div class="feuille2"></div>Inscrivez-vous <div class="feuille2"></div> Rejoignez-nous ! <div class="feuille2"></div>
       </h1>
     </section>
 
@@ -111,37 +115,47 @@
 
         <div class="row">
           <article class="col-md-8">
-            <div class="rub">DIY</div>
-            <div class="pop1">
-              <h2>Créez votre terrarium</h2>
-            </div>
+            <a href="">
+              <div class="rub">DIY</div>
+              <div class="pop1">
+                <h2>Créez votre terrarium</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-4">
-            <div class="rub">Shopping</div>
-            <div class="pop2">
-              <h2>Tout sur les truelles ...</h2>
-            </div>
+            <a href="">
+              <div class="rub">Shopping</div>
+              <div class="pop2">
+                <h2>Tout sur les truelles ...</h2>
+              </div>
+            </a>
           </article>
         </div>
 
         <div class="row">
           <article class="col-md-4">
-            <div class="rub">Dossier</div>
-            <div class="pop3">
-              <h2>Les plantes rondes</h2>
-            </div>
+            <a href="">
+              <div class="rub">Dossier</div>
+              <div class="pop3">
+                <h2>Les plantes rondes</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-4">
-            <div class="rub">Test</div>
-            <div class="pop4">
-              <h2>Quelle plante verte êtes-vous ?</h2>
-            </div>
+            <a href="">
+              <div class="rub">Test</div>
+              <div class="pop4">
+                <h2>Quelle plante verte êtes-vous ?</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-4">
-            <div class="rub">Dossier</div>
-            <div class="pop5">
-              <h2>Les plantes rondes</h2>
-            </div>
+            <a href="">
+              <div class="rub">Dossier</div>
+              <div class="pop5">
+                <h2>Les plantes de bureau</h2>
+              </div>
+            </a>
           </article>
         </div>
       </section>
@@ -160,24 +174,32 @@
 
         <div class="row">
           <article class="col-md-3">
-            <div class="par1">
-              <h2>Rendez-lui visite !</h2>
-            </div>
+            <a href="">
+              <div class="par1">
+                <h2>Rendez-lui visite !</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-3">
-            <div class="par2">
-              <h2>Rendez-lui visite !</h2>
-            </div>
+            <a href="">
+              <div class="par2">
+                <h2>Rendez-lui visite !</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-3">
-            <div class="par3">
-              <h2>Rendez-lui visite !</h2>
-            </div>
+            <a href="">
+              <div class="par3">
+                <h2>Rendez-lui visite !</h2>
+              </div>
+            </a>
           </article>
           <article class="col-md-3">
-            <div class="par4">
-              <h2>Rendez-lui visite !</h2>
-            </div>
+            <a href="">
+              <div class="par4">
+                <h2>Rendez-lui visite !</h2>
+              </div>
+            </a>
           </article>
         </div>
       </section>

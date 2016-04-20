@@ -34,11 +34,15 @@ Ombre portée nette sous les boutons ?
 */
 
 /********************GENERAL******************/
+html {
+	padding: 0;
+	margin:0;
+}
 body {
 	position: relative;
 	font-size: 17px;
 	color:black !important;
-	background-image: url("../../images/fond/essai1-compressor.png");
+	background-image: url("../../images/fond/essai2_transparency.png");
 	background-size: 100% auto;
 }
 .inline-block {display: inline-block;}
@@ -95,7 +99,8 @@ body, article h1, article h2, article h3, article h4, article h5, article h6, .c
 	height:2.5em;
 	margin-right: -0.4em;
 	/*margin-top:2em;*/
-	background: url("../../svg/feuille1.svg");
+	background-image: url("../../svg/feuille1.svg");
+	background-position: 0 5px;
 }
 
 .feuille2 {
@@ -154,9 +159,10 @@ a {
 	font-weight: bolder;
 }
 
-section {
+section:not(.participez) {
 	padding:1em;
 }
+.participez {padding-top:0.1em;}
 .breadcrumb {
     background-color: white;
     border-radius: 0px;
@@ -167,23 +173,23 @@ section {
 }
 
 .rub {
-	color:black;
+	color:#F2F2F2;
     font-size: 20px;
     margin-left: -7px;
     padding: 0.2em 1.5em;
     position: absolute;
     top: 1.5em;
-    z-index: 5;
+    z-index: 16;
     font-weight: normal;
 }
 
 /**********************************HEADER**********************************/
 
 header {
-	background-image: url("../../images/header/background_long_60.png");
+	background-image: url("../../images/header/background_long_2-01.png");
 	/*background-image: url("../../images/header/decorations_version_longues.png");*/
 	background-position: 100%;
-	background-size:auto 125% ;
+	background-size:auto 100% ;
 	/*background-size: 100% auto;*/
 	background-repeat: no-repeat;
 	height:100%;
@@ -199,12 +205,6 @@ header .logo {
 header .conIns {
 	background-color: rgba(153,88,148, 1);
 	color:white;
-}
-
-@media (max-width: 992px) {
-	header .container {
-		background: none;
-	}
 }
 
 .recherche, .form-control {
@@ -260,7 +260,6 @@ font-weight: normal;
 
 
 .sliding-middle-out > li {
-	display: inline-block;
 	position: relative;
 }
 .sliding-middle-out > li:after {
@@ -340,6 +339,7 @@ font-weight: normal;
 	position:absolute;
 	margin:0;
 	width:100%;
+	font-size: 28px;
 }
 
 .carousel {
@@ -352,7 +352,8 @@ font-weight: normal;
 	padding:0.1em 0.5em;
 }
 .carousel-inner > .item > img {
-	height:auto;
+	/*height:auto;*/
+	width:100%;
 }
 .carousel-caption {
 	background: rgba(255,255,255,0.7);
@@ -423,20 +424,20 @@ font-weight: normal;
 	background-size: 100% auto;
 }
 .pop2 {
-	background-image: url("../../images/accueil/Populaire3.jpg");
+	background-image: url("../../images/accueil/populaire3.jpg");
 	background-position: 50%;
 	background-size: auto 100%;
 }
 .pop3 {
-	background-image: url("../../images/accueil/Populaire2.jpg");
+	background-image: url("../../images/accueil/populaire2.jpg");
 	background-position: 50% 75%;
 }
 .pop4 {
-	background-image: url("../../images/accueil/Populaire4.jpg");
+	background-image: url("../../images/accueil/populaire4.jpg");
 	background-position: 50%;
 }
 .pop5 {
-	background-image: url("../../images/accueil/Populaire5.jpg");
+	background-image: url("../../images/accueil/populaire5.jpg");
 	background-position: 100% 0;
 }
 
@@ -465,7 +466,7 @@ font-weight: normal;
 	margin-bottom: 10px;
 }
 .rubriqueSidebar {
-	padding:1em 2em;
+	padding:0 0.8em
 }
 .rubriqueSidebar h4, .blog-main h2 {
     bottom: 0;
@@ -486,7 +487,7 @@ font-weight: normal;
 	background: rgba(137,166,204, 0.5);
 	line-height: 30px;
 	font-size: 1.5em;
-	color:black;
+	color:white;
 }
 .rubriqueSidebar article a > div{
 	position: relative;
@@ -513,6 +514,12 @@ font-weight: normal;
 	text-align: center;
 }
 
+.lettrine:first-letter {
+  float:left;
+  font-size: 6em;
+  padding: 0.05em 0.05em 0 0;
+}
+
 .derniersArticles li {
 	display : list-item;
 	list-style-image : url("../../images/articles/puce.png");
@@ -531,14 +538,16 @@ font-weight: normal;
 	margin:0 auto;
 }
 
-
-.meta {}
+.meta {
+	display:flex;
+	flex-wrap:nowrap;
+	justify-content:space-around;
+	align-items:center;
+}
 .meta h3 {
-	display:inline-block;
 	color:#995894;
 }
 .meta a {
-	display:inline-block;
 	border-radius: 5px;
 	border:2px solid #995894;
 	padding:4px 10px;
@@ -561,9 +570,6 @@ font-weight: normal;
 
 .blog-post h3 {
 	color:#995894;
-	text-indent:50px;
-}
-.blog-post p:not(.legende) {
 	text-indent:50px;
 }
 
@@ -687,6 +693,7 @@ font-weight: normal;
 	font-size: 1.5em;
 	text-align: center;
 }
+.redaction .heightDesc {height:170px;text-align: center;}
 .redaction .nom:after {
 	content: '';
 	display: block;
@@ -735,6 +742,8 @@ font-weight: normal;
 }
 footer {
 	background: url("../../images/footer/tree_bark.png");
+	text-align: center;
+	padding-top: 1em;
 }
 
 footer div p, footer div a{
@@ -746,7 +755,6 @@ footer .foot{
 	height:40px;
 	line-height:40px;
 	vertical-align: middle;
-	bottom:0;
 	width:100%;
 	background-color: #995894;
 	color:white;
@@ -756,4 +764,80 @@ footer img {
 }
 footer .reseaux {
 	margin-top:1em;
+}
+	.carousel-caption {padding:0;padding-bottom:1em;}
+
+@media (max-width: 974px) {
+	body, header {
+		background: none;
+	}
+	.container .row:not(.trierPar, .infoComm) {font-size: 1.3em;}
+	.headerMobile {width:100%;background-color: #f2f2f2;}
+	.sliding-middle-out > li {display:block;position:relative;}
+	.sliding-middle-out > li:hover:after {width: 0%;}
+	.navbar-default {background-color: transparent;}
+	.navbar-header {position:fixed; top:0; right:0;margin: 0.5em; z-index: 20;}
+	button.navbar-toggle {background-color: white;}
+	.sliding-middle-out {
+		position: fixed;
+		right:1em;
+		background-color: #f2f2f2;
+		top:0;
+		width:100%;
+		margin:0;
+		z-index: 19;
+	}
+	.carousel .rub {display: none;}
+	.carousel h1 {font-size: 1.5em;line-height: 1em;}
+	.carousel-inner > .item > img {height:100%;position:relative;}
+	.participez{height:auto;padding-bottom:0.00045em;}
+	.partenaire .row div {height:400px;}
+	.chapeau {font-size: 1em;}
+	.feuille1, .titreh1 > div {display: none;}
+	.meta a {border: transparent; }
+	.petitNone {display: none;}
+	.pop1, .pop2 {height: 150px; position:relative;}
+	.pop3, .pop4, .pop5 {
+		background-size:auto 100% ;
+		height: 200px;
+		position:relative;
+	}
+	.recherche-main article div{background-size: 100% auto;}
+	.recherche-main article div.cac2{background-size:auto 100%;}
+	.formSearch {display: block; margin-left: 1em;}
+	.trierPar{margin:0;padding:0.5em 0;/*font-size:1em;*/}
+	.cat{display:inline-block;}
+	.blog-main h2, .accueil h2 {/*font-size:80%;*/line-height: 1;}
+	.blog-post h3 {text-indent: 0;}
+	.lettrine::first-letter{font-size: 3em;}
+	.avatar{width:150px;height:150px; margin: 0 auto;display:block;}
+	/*.derniersArticles{background-color: rgba(153,119,152, 1);}*/
+	.commentaire .infoComm{text-align: center;display:block;line-height: 1.5;}
+	.partenaire article {margin-bottom: 1em;}
+	footer .fo {margin:0 auto; }
+	.redaction {background-color: white;}
+	.redaction .heightDesc {height:auto;}
+	.redaction img {width:50%; margin:0 25%;}
+	.redaction .row .col-md-3 div {padding:0;font-size: 1em;margin:1em 10%;width:80%;}
+	.containerRedaction {width:100%;display:block;margin:0 auto;}
+	.contenuRedaction {display: inline-block;width:55%;text-align: center;height:auto; font-size: 50%;}
+	.rubrique-main .col-xs-12 div {height:300px;max-width: 70%; margin: 0 15%;}
+	.container {max-width: 70%; margin:0 15%;}
+}
+
+
+@media (min-width: 975px) {
+	.grandNone {display: none;}
+}
+
+
+@media (max-width: 700px) {/*
+	.partenaire .row div {max-width: 70%; margin:0 15%;height:250px;}*/
+	.container {max-width: 100%; margin:0;}
+}
+
+@media(max-width: 450px){
+	.rubrique-main .col-xs-12 div {height:300px;max-width: 100%; margin: 0;}
+	.container {max-width: 100%; margin:0;}
+
 }

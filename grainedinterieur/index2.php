@@ -25,7 +25,7 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img class="first-slide carouselImage" src="./images/accueil/Nouveau.jpg" alt="First slide">
+            <img class="first-slide" src="./images/accueil/Nouveau.jpg" alt="First slide">
             <div class="container">
               <div class="rub">Conseils</div>
               <div class="carousel-caption">
@@ -34,7 +34,7 @@
             </div>
           </div>
           <div class="item">
-            <img class="second-slide carouselImage" src="./images/accueil/Nouveau.jpg" alt="Second slide">
+            <img class="second-slide" src="./images/accueil/Nouveau.jpg" alt="Second slide">
             <div class="container">
               <div class="rub">Conseils</div>
               <div class="carousel-caption">
@@ -43,7 +43,7 @@
             </div>
           </div>
           <div class="item">
-            <img class="third-slide carouselImage" src="./images/accueil/Nouveau.jpg" alt="Third slide">
+            <img class="third-slide" src="./images/accueil/Nouveau.jpg" alt="Third slide">
             <div class="container">
               <div class="rub">Conseils</div>
               <div class="carousel-caption">
@@ -62,10 +62,10 @@
         </a>
       </div>
 
-    </div>
 
-    <div class="coupdecoeur accueil">
-      <section class="container">
+
+
+      <section class="coupdecoeur accueil">
 
         <div class="titreh1">
           <div class="feuille1"></div>
@@ -74,17 +74,16 @@
         </div>
 
         <div class="row">
-          <article class="col-md-6">
-            <a href="article.php">
+          <article class="col-xs-5">
+            <a href="">
               <div class="rub">Shopping</div>
               <div class="cdc1">
                 <h2>Où acheter vos cactus ?</h2>
               </div>
             </a>
           </article>
-          <br class="grandNone">
-          <article class="col-md-6">
-            <a href="article.php">
+          <article class="col-xs-5 col-xs-offset-1">
+            <a href="">
               <div class="rub">Dossier</div>
               <div class="cdc2">
                 <h2>Décorez votre véranda</h2>
@@ -94,7 +93,7 @@
         </div>
 
       </section>
-    </div>
+
 
 
 
@@ -106,8 +105,8 @@
 
 
 
-    <div class="container accueil backWhite">
-      <section class="populaire">
+
+      <section class="populaire accueil backWhite">
         <div class="titreh1">
           <div class="feuille1"></div>
           <h1>Les plus lus</h1>
@@ -115,43 +114,43 @@
         </div>
 
         <div class="row">
-          <article class="col-md-8 col-xs-12">
-            <a href="article.php">
+          <article class="col-md-8">
+            <a href="">
               <div class="rub">DIY</div>
               <div class="pop1">
                 <h2>Créez votre terrarium</h2>
               </div>
             </a>
           </article>
-          <article class="col-md-4 petitNone">
-            <a href="article.php">
+          <article class="col-md-4">
+            <a href="">
               <div class="rub">Shopping</div>
               <div class="pop2">
                 <h2>Tout sur les truelles ...</h2>
               </div>
             </a>
           </article>
-        </div>
+
 
         <div class="row">
-          <article class="col-md-4 col-xs-6">
-            <a href="article.php">
+          <article class="col-md-4">
+            <a href="">
               <div class="rub">Dossier</div>
               <div class="pop3">
                 <h2>Les plantes rondes</h2>
               </div>
             </a>
           </article>
-          <article class="col-md-4 col-xs-6 petitNone">
-            <a href="article.php">
+          <article class="col-md-4">
+            <a href="">
               <div class="rub">Test</div>
               <div class="pop4">
                 <h2>Quelle plante verte êtes-vous ?</h2>
               </div>
             </a>
           </article>
-          <article class="col-md-4 col-xs-6">
-            <a href="article.php">
+          <article class="col-md-4">
+            <a href="">
               <div class="rub">Dossier</div>
               <div class="pop5">
                 <h2>Les plantes de bureau</h2>
@@ -160,12 +159,9 @@
           </article>
         </div>
       </section>
-    </div>
 
 
-
-    <div class="partenaire accueil">
-      <section class="container">
+      <section class="partenaire accueil">
 
         <div class="titreh1">
           <div class="feuille1"></div>
@@ -174,32 +170,31 @@
         </div>
 
         <div class="row">
-          <article class="col-md-3 col-xs-12">
+          <article class="col-md-3">
             <a href="">
               <div class="par1">
-                <h2>Rendez-lui <br class="grandNone"> visite !</h2>
+                <h2>Rendez-lui visite !</h2>
               </div>
             </a>
           </article>
-          <br class="grandNone">
-          <article class="col-md-3 col-xs-12">
+          <article class="col-md-3">
             <a href="">
               <div class="par2">
-                <h2>Rendez-lui <br class="grandNone"> visite !</h2>
+                <h2>Rendez-lui visite !</h2>
               </div>
             </a>
           </article>
-          <article class="col-md-3 petitNone">
+          <article class="col-md-3">
             <a href="">
               <div class="par3">
-                <h2>Rendez-lui <br class="grandNone"> visite !</h2>
+                <h2>Rendez-lui visite !</h2>
               </div>
             </a>
           </article>
-          <article class="col-md-3 petitNone">
+          <article class="col-md-3">
             <a href="">
               <div class="par4">
-                <h2>Rendez-lui <br class="grandNone"> visite !</h2>
+                <h2>Rendez-lui visite !</h2>
               </div>
             </a>
           </article>

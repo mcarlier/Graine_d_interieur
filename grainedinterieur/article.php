@@ -18,10 +18,10 @@
 
     <?php require("header.php"); ?>
 
-    <div class="container">
+    <div class="container backWhite">
       <ol class="breadcrumb">
         <li><a href="index.php">Accueil</a></li>
-        <li><a href="conseils.php">Conseils</a></li>
+        <li><a href="rubrique.php">Conseils</a></li>
         <li class="active">Lumière sur les kokédamas</li>
       </ol>
 
@@ -52,12 +52,12 @@
             <p class="legende">Amas de kokédamas</p>
 
             <div class="meta">
-              <h3>25 <br> partages</h3>
-              <a href="#"><img src="./images/footer/Facebook_violet.svg" alt="F">Partage sur Facebook</a>
-              <a href="#"><img src="./images/footer/Twitter_violet.svg" alt="T">Partage sur Twitter</a>
+              <h3>25 <br class="petitNone"> partages</h3>
+              <a href="#"><img src="./images/footer/Facebook_violet.svg" alt="F"><span class="petitNone">Partage sur Facebook</span></a>
+              <a href="#"><img src="./images/footer/Twitter_violet.svg" alt="T"><span class="petitNone">Partage sur Twitter</span></a>
             </div>
 
-            <p>Un kokedama c’est trois choses : une plante, de la mousse et du substrat pour lier le tout. Bien sûr il y a mille et une recettes pour mener à bien le projet, c’est surtout des plantes que l’on va mettre dedans que tout démarre.</p>
+            <p class="lettrine">Un kokedama c’est trois choses : une plante, de la mousse et du substrat pour lier le tout. Bien sûr il y a mille et une recettes pour mener à bien le projet, c’est surtout des plantes que l’on va mettre dedans que tout démarre.</p>
 
             <div class="corpsArticle">
               <h3>Comment choisir sa plante</h3>
@@ -79,18 +79,18 @@
           </div><!-- /.blog-post -->
 
           <div class="meta">
-            <h3>25 <br> partages</h3>
-            <a href="#"><img src="./images/footer/Facebook_violet.svg" alt="F">Partage sur Facebook</a>
-            <a href="#"><img src="./images/footer/Twitter_violet.svg" alt="T">Partage sur Twitter</a>
+            <h3>25 <br class="petitNone"> partages</h3>
+            <a href="#"><img src="./images/footer/Facebook_violet.svg" alt="F"><span class="petitNone">Partage sur Facebook</span></a>
+            <a href="#"><img src="./images/footer/Twitter_violet.svg" alt="T"><span class="petitNone">Partage sur Twitter</span></a>
           </div>
 
-          <div>
+          <div class="derniersArticles">
             <div class="feuille2 inline-block rotateFeuille2"></div>
             <h3 class="inline-block">À lire aussi :</h3>
-            <ol class="derniersArticles">
-              <li><a href="#">Shopping : Où trouver son Kokédama.</a></li>
-              <li><a href="#">Conseil : Comment assortir son Kokédama à sa table basse.</a></li>
-              <li><a href="#">DIY : Tout pour faire son Kokédama.</a></li>
+            <ol>
+              <li><a href="article.php">Shopping : Où trouver son Kokédama.</a></li>
+              <li><a href="article.php">Conseil : Comment assortir son Kokédama à sa table basse.</a></li>
+              <li><a href="article.php">DIY : Tout pour faire son Kokédama.</a></li>
             </ol>
 
           </div>
@@ -129,17 +129,17 @@
 <!-- :::::::::::::::::::::::::::::::::::SIDEBAR:::::::::::::::::: -->
 
 
-        <div class="col-md-3 blog-sidebar">
+        <div class="col-md-3 blog-sidebar petitNone">
           <div class="sideBarbie">
             <img src="./images/pub/barbipub.png" alt="Barbicoiffure" class="barbiPub">
           </div>
           <div class="sidebar-module">
             <h4>Derniers articles</h4>
             <ol class="derniersArticles">
-              <li><a href="#">Plantes atypiques à mettre à l'intérieur</a></li>
-              <li><a href="#">5 conseils pour décorer avec des plantes</a></li>
-              <li><a href="#">Quelle plante verte êtes-vous ?</a></li>
-              <li><a href="#">Tout savoir sur la truelle</a></li>
+              <li><a href="article.php">Plantes atypiques à mettre à l'intérieur</a></li>
+              <li><a href="article.php">5 conseils pour décorer avec des plantes</a></li>
+              <li><a href="article.php">Quelle plante verte êtes-vous ?</a></li>
+              <li><a href="article.php">Tout savoir sur la truelle</a></li>
             </ol>
           </div>
 
@@ -173,6 +173,7 @@
                 <a href="" class="col-md-4 col-md-offset-1"><img src="./images/footer/Twitter_violet.svg" alt="T"></a>
               </div>
             </div>
+            <h4><a href="">Inscrivez vous à la newsletter</a></h4>
           </div>
 
         </div><!-- /.blog-sidebar -->

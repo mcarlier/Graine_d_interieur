@@ -8,11 +8,11 @@
 <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
 
 <!-- Bootstrap -->
-<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/css/bootstrap.css" rel="stylesheet">
 
 
 <link href="assets/css/grid.css" rel="stylesheet">
-<link href="assets/css/blog.css" rel="stylesheet">
+<!-- <link href="assets/css/blog.css" rel="stylesheet"> -->
 
 <link href="assets/css/main.css" rel="stylesheet">
 <link href="assets/css/tests.css" rel="stylesheet">

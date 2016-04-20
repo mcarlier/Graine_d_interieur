@@ -15,7 +15,7 @@
     <?php require("header.php"); ?>
 
 
-      <section class="container">
+      <section class="container backWhite">
         <ol class="breadcrumb">
           <li><a href="index.php">Accueil</a></li>
           <li class="active"></a>À propos</li>
@@ -49,20 +49,27 @@
             <div class="feuille2"></div>
           </div>
           <div class="row">
-            <div class="col-md-3 col-md-offset-1">
+            <div class="col-md-3 col-md-offset-1 containerRedaction">
               <img src="./images/a_propos/Alice.jpg" alt="Alice">
-              <p class="nom">Alice Maixent</p>
-              <div>Développeuse de l'extrême et gardienne de licornes</div>
+              <div class="contenuRedaction">
+                <p class="nom">Alice Maixent</p>
+                <div class="heightDesc">Développeuse de l'extrême et gardienne de licornes</div>
+              </div>
+
             </div>
-            <div class="col-md-3 col-md-offset-1">
+            <div class="col-md-3 col-md-offset-1 containerRedaction">
               <img src="./images/a_propos/Nancy.jpg" alt="Nancy">
-              <p class="nom">Nancy Radjaya</p>
-              <div>Community manager de folie et propriétaire de Stitch</div>
+              <div class="contenuRedaction">
+                <p class="nom">Nancy Radjaya</p>
+                <div class="heightDesc">Community manager de folie et propriétaire de Stitch</div>
+              </div>
             </div>
-            <div class="col-md-3 col-md-offset-1">
+            <div class="col-md-3 col-md-offset-1 containerRedaction">
               <img src="./images/a_propos/maelle.jpg" alt="Maëlle">
-              <p class="nom">Maëlle Carlier</p>
-              <div>Web designeuse professionnelle et fan de galaxies</div>
+              <div class="contenuRedaction">
+                <p class="nom">Maëlle Carlier</p>
+                <div class="heightDesc">Web designeuse professionnelle et fan de galaxies</div>
+              </div>
             </div>
           </div>
         </div>

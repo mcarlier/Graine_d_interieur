@@ -43,3 +43,18 @@
 	width:100%;
 	height:410px;
 }
+
+@media (max-width: 974px) {
+
+	.testArt2{
+		height:400px;
+	}
+	.testArt1 h2 {
+		padding:0.2em 0;
+	}
+}
+@media (max-width: 700px) {
+	.testArt1{
+		background-size: auto 100%;
+	}
+}

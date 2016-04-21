@@ -41,8 +41,8 @@
           </div>
         </div>
     </section>
-      <div class="redaction">
-        <section class="container">
+      <div class="redaction container">
+        <section class="">
           <div class="titreh1">
             <div class="feuille1"></div>
             <h1>La Rédaction</h1>
@@ -72,12 +72,12 @@
               </div>
             </div>
           </div>
-        </div>
       </section>
+        </div>
 
-      <div class="contact">
+      <div class="contact container">
 
-      <section class="container">
+      <section class="">
           <div class="titreh1">
             <div class="feuille1"></div>
             <h1>Contactez nous !</h1>
@@ -87,7 +87,7 @@
               <div class="form-group">
                   <!-- <label for="email" class="col-sm-2 control-label">Email</label> -->
                   <div class="col-sm-4 col-sm-offset-2">
-                      <input type="email" class="form-control" id="email" name="email" placeholder="Email" value="">
+                      <input type="email" class="form-control" id="email" name="email" placeholder="" value="Email">
                   </div>
               </div>
               <div class="form-group">
@@ -122,5 +122,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

@@ -152,6 +152,7 @@
                 </div>
               </a>
             </article>
+            <br>
             <article class="">
               <a href="">
                 <div class="par4">
@@ -193,5 +194,6 @@
     <script src="../../dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

@@ -9,10 +9,4 @@
 
 <!-- Bootstrap -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
-
-
-<link href="assets/css/grid.css" rel="stylesheet">
-<!-- <link href="assets/css/blog.css" rel="stylesheet"> -->
-
 <link href="assets/css/main.css" rel="stylesheet">
-<link href="assets/css/tests.css" rel="stylesheet">

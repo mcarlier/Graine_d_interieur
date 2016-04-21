@@ -25,14 +25,21 @@
         <input type="text" class="col-md-4 col-md-offset-1 cactus" placeholder="  Cactus"> <!-- form-control -->
         <button type="submit" class="btn btn-default glyphicon glyphicon-search recherche-btn" formaction="recherche.php"></button>
       </form>
+      <h2 class="darkVioletColor inline-block resultats">4 résultats</h2>
 
       <div class="col-md-4 blog-sidebar petitNone">
-        <h2 class="darkVioletColor">4 résultats</h2>
+
         <div class="sidebar-module sidebar-module-inset filtres">
           <div class="feuille2 inline-block"></div>
           <h4 class="inline-block">Vos choix</h4>
-          <a class="inline-block darkVioletColor text-right">supprimer tout</a>
-          <p>Tous les résultats de recherche pour "cactus".</p>
+          <!-- supprimer tout
+          <a class="inline-block darkVioletColor text-right glyphicon glyphicon-remove"></a> -->
+          <!-- <p>Tous les résultats de recherche pour "cactus".</p> -->
+            <p><input type="checkbox" checked="checked"> Conseil</p>
+            <p><input type="checkbox" checked="checked"> DIY</p>
+            <p><input type="checkbox" checked="checked"> Shopping</p>
+            <p><input type="checkbox" checked="checked"> Dossier</p>
+            <p><input type="checkbox" checked="checked"> Test</p>
 
           <div class="feuille2 inline-block"></div>
           <h4 class="inline-block">Filtrez</h4>
@@ -40,16 +47,11 @@
           <form>
             <p><input type="checkbox"> Boutique</p>
             <p><input type="checkbox"> Bon Plan</p>
-            <p><input type="checkbox"> Conseil</p>
             <p><input type="checkbox"> Couleur</p>
             <p><input type="checkbox"> Curiosité</p>
-            <p><input type="checkbox"> DIY</p>
-            <p><input type="checkbox"> Dossier</p>
             <p><input type="checkbox"> Lumière</p>
             <p><input type="checkbox"> Pot</p>
             <p><input type="checkbox"> Scandinave</p>
-            <p><input type="checkbox"> Shopping</p>
-            <p><input type="checkbox"> Test</p>
           </form>
         </div>
       </div>
@@ -156,5 +158,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

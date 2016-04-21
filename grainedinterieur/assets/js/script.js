@@ -1,0 +1,3 @@
+$(document).ready(function(){$('body').append('<a href="#" class="petitNone top_link"><div class="backTop"><div class="glyphicon glyphicon-menu-up"></div><p class="text-right">Haut de page</p></div></a>');$('.top_link').css({'display':'none','opacity':'0.9','z-index':'2000'});$(window).scroll(function(){posScroll=$(document).scrollTop();if(posScroll>=550&&window.matchMedia("(min-width: 974px)").matches)
+$('.top_link').fadeIn(600);else
+$('.top_link').fadeOut(600);});});

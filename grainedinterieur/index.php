@@ -64,8 +64,10 @@
 
     </div>
 
-    <div class="coupdecoeur accueil">
-      <section class="container">
+    <br>
+
+    <div class="coupdecoeur accueil container">
+      <section class="">
 
         <div class="titreh1">
           <div class="feuille1"></div>
@@ -98,7 +100,7 @@
 
 
 
-    <section class="participez">
+    <section class="participez container">
       <h1 class="titreh1">
         <div class="feuille2"></div>Inscrivez-vous <div class="feuille2"></div> Rejoignez-nous ! <div class="feuille2"></div>
       </h1>
@@ -164,8 +166,8 @@
 
 
 
-    <div class="partenaire accueil">
-      <section class="container">
+    <div class="partenaire accueil container">
+      <section class="">
 
         <div class="titreh1">
           <div class="feuille1"></div>
@@ -213,5 +215,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

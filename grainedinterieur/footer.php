@@ -1,8 +1,4 @@
-<a href="#" class="petitNone"><div class="backTop">
-  <div class="glyphicon glyphicon-menu-up"></div>
-    <p class="text-right">Haut de page</p>
-  </div>
-</a>
+
 <footer class="footer blog-footer">
   <div class="container">
     <div class="row">
@@ -16,10 +12,14 @@
       <div class="col-md-4 fo">
         <h4>Parce qu'une déco qui pousse <br> c'est un plus qui mousse</h4>
         <div class="reseaux">
-          <a href=""><img src="./images/footer/Facebook_violet.svg" alt="F"></a>
+<!--           <a href=""><img src="./images/footer/Facebook_violet.svg" alt="F"></a>
           <a href=""><img src="./images/footer/Pinterest_violet.svg" alt="P"></a>
           <a href=""><img src="./images/footer/Instagram_violet.svg" alt="I"></a>
-          <a href=""><img src="./images/footer/Twitter_violet.svg" alt="T"></a>
+          <a href=""><img src="./images/footer/Twitter_violet.svg" alt="T"></a> -->
+          <a href=""><img src="./images/footer/facebook_violet.png" alt="F"></a>
+          <a href=""><img src="./images/footer/Pinterest_violet.png" alt="P"></a>
+          <a href=""><img src="./images/footer/instagram_violet.png" alt="I"></a>
+          <a href=""><img src="./images/footer/twiter_violet.png" alt="T"></a>
         </div>
         <a href="">Inscrivez vous à notre newsletter</a>
       </div>

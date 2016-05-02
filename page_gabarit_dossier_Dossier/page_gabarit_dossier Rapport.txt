@@ -1,0 +1,59 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : page_gabarit_dossier.ai
+Mode : Couleurs CMJN
+Profil colorimétrique : Coated FOGRA39 (ISO 12647-2:2004)
+Unité : pixels
+Dimensions : 595,28 px x 841,89 px
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+Abril Fatface (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash24.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\photo-1446831687499-c9188a15b9bd.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash7.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash14.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash22.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash_pot_sur_bureau.jpg
+Type : Autre
+
+C:\Users\Twins\Documents\2IMAC\WEBDESIGN\Banque d'image libre\unsplash3.jpg
+Type : Autre
+
+-----------------------------------------------------------------------------
+Images liées :
+SANS
